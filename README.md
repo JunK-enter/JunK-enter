@@ -42,5 +42,5 @@
 ### 📫 Let's Connect!
 
 <a href="mailto:junkim621edu@gmail.com">📧 Email</a> |
-<a href="https://www.linkedin.com/in/jun-kim-b1889529a/">🔗 LinkedIn</a> |
+<a href="https://www.linkedin.com/in/jun-kim-b1889529a/">🔗 LinkedIn</a> 
 
