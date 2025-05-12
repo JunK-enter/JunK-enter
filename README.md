@@ -6,7 +6,7 @@
 
 ---
 
-<details>
+<details open>
 <summary>👨‍💻 <strong>About Me</strong></summary>
 
 - 🎓 **CS @ University of California, Irvine**  
