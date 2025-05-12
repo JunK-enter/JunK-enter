@@ -5,7 +5,6 @@
   ### Jun Kim's GitHub Stats
   
   <img src="https://github-readme-stats.vercel.app/api?username=jun-kim&show_icons=true&theme=radical&count_private=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-kim&layout=compact&theme=radical" width="330"/>
 
 </div>
 
