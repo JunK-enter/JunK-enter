@@ -5,6 +5,16 @@
   ### Jun Kim's GitHub Stats
   
 <img src="https://github-readme-stats-juni.vercel.app/api?username=JunK-enter&show_icons=true&layout=compact&theme=tokyonight&count_private=true" />
+<h2 align="center">📊 GitHub Activity Summary</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐%20Total%20Stars-4-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🕒%20Commits%20(2025)-132-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔀%20Pull%20Requests-12-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐞%20Issues-7-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝%20Contributed%20To-3-lightgrey?style=for-the-badge" />
+</p>
+
 
 </div>
 
