@@ -74,7 +74,6 @@
 
 ### 🐍 Contribution Graph Animation (Optional)
 
-<!-- 활성화하려면 GitHub Actions 설정 필요 -->
-<!--
+
 ![snake gif](https://github.com/JunK-enter/JunK-enter/blob/output/github-contribution-grid-snake.svg)
--->
+
