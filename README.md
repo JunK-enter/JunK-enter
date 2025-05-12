@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jun Kim 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=CS+Graduate+%40+UCI;AI+%26+Web+Developer;Creative+Technologist;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=CS+Graduate+%40+UCI;AI+%26+Web+Developer;Creative+Technologist;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 ---
