@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Jun Kim!
 
-<!--
-**JunK-enter/JunK-enter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science @ UC Irvine  
+💡 Passionate about AI, Web Development, and Automation  
+🌱 Currently exploring Firebase, React, and OpenAI APIs  
+📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)  
+🌐 Portfolio: [your-website.com](https://your-website.com)
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🔌 EVnation Load Calculator - Full-stack load estimation tool for EV installations
+- 🧠 AI Chatbot Agent - Custom GPT-powered conversational agents
+- 📊 CRM Integration Automation - Pipedrive & Google Sheets sync via Flask/Make
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+`React` `TypeScript` `Python` `Flask` `Firebase` `Shopify/Liquid` `OpenAI API`
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jun-kim&show_icons=true&theme=default)
