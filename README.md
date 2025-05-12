@@ -20,7 +20,7 @@
 
 ### 📊 GitHub Stats
 
-![Jun's GitHub Stats](https://github-readme-stats-ppjc657me-junkim-s-projects.vercel.app/api?username=JunK-enter&show_icons=true&count_private=true&theme=radical)
+![Jun's GitHub Stats](https://github-readme-stats-ecru-nu-24.vercel.app/api?username=JunK-enter&show_icons=true&count_private=true&theme=radical)
 
 ---
 
