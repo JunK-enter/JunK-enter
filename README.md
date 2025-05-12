@@ -4,7 +4,8 @@
   
   ### Jun Kim's GitHub Stats
   
-<img src="https://github-readme-stats.vercel.app/api?username=JunK-enter&show_icons=true&layout=compact&theme=radical&count_private=true" />
+<img src="https://github-readme-stats-ecru-nu-24.vercel.app
+/api?username=JunK-enter&show_icons=true&layout=compact&theme=radical&count_private=true" />
 
 </div>
 
