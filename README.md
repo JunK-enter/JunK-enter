@@ -15,7 +15,7 @@
 - **Name:** Jun Kim  
 - **University:** University of California, Irvine (UCI)  
 - **Major:** Computer Science - Intelligence Systems  
-- **Email:** yourname@email.com  
+- **Email:** junkim621edu@gmail.com
 - **Blog/Portfolio:** [Click here](https://junkimsport.vercel.app)
 
 ---
