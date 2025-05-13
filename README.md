@@ -41,8 +41,8 @@
 <summary>📊 <strong>GitHub Stats</strong></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunK-enter&show_icons=true&count_private=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunK-enter&layout=compact&theme=radical" width="42%" />
+  <img src="https://github-readme-stats-ecru-nu-24.vercel.app/api?username=JunK-enter&show_icons=true&count_private=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-ecru-nu-24.vercel.app/api/top-langs/?username=JunK-enter&layout=compact&theme=radical" width="42%" />
 </p>
 
 </details>
